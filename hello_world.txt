@@ -1,0 +1,4 @@
+hello world!
+This is Jacob Hall.
+I am working on the Odin Project's Foundation git basics lessons.
+Have a good day!
